@@ -53,7 +53,7 @@ Unfortunatley there's only so much you can do in one lifetime, but I decided to 
   I understand I don't know EVERYTHING but if I need to know something for a project I research and figure it out relatively quickly.
    <br />
     <br />
-  In January 2023, the New Years fitness kick led me to wanting to get back into shape. Unfortunatley MyFitnessPal had locked their barcode scanner behind a paywall and for some reason that lit a deep hatred for these apps which offer mediocre features at best and lock most of the functional ones behind a paywall. So I decided to develop my own app which I intend to release for free and the UI/UX will be designed in a way I think existing apps could benefit from. I was using .NET MAUI but I ended up switching to Uno Platform Framework.
+  In January 2023, the New Years fitness kick led me to wanting to get back into shape. Unfortunatley MyFitnessPal had locked their barcode scanner behind a paywall and for some reason that lit a deep hatred for these apps which offer mediocre features at best and lock most of the functional ones behind a paywall. So I decided to develop my own app which I intend to release for free and the UI/UX will be designed in a way I think existing apps could benefit from. I was using .NET MAUI so I began learning C# but I ended up switching to Uno Platform Framework (which still uses C#)
      <br />
     <br />
     At present I am continuing to develop my app 'HealthMode' and upon completion of that I will go into freelancing and after I gain some experience and reputation I will apply for software engineering jobs (hopefully on the west coast or remote but located on the west cost since I want to move to Las Vegas)
