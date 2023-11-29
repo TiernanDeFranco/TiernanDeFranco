@@ -32,31 +32,18 @@ Unfortunatley there's only so much you can do in one lifetime, but I decided to 
 
 <details>
   <summary><h3>👨‍💻Tiernan's Coding Journey</summary>
-    I started my coding journey originally at age 9, when my father bought me a copy of GameMaker 7 and 'The GamerMaker's Apprentice' book. However, GameMaker at that time was mainly drag-and-drop style programming, or at the very least it wasn't clear to me that I could actually learn a language and type code, and I soon stopped using GameMaker.
-    Fast forward to freshman year of highschool, 15 year old me wants to get into game development, (but for real this time... maybe) I purchased GameMaker Studio 2, not realizing this was a much improved version of the same program I used just 6 years earlier. I would say I was DECENT at GML (GameMaker Language), or as decent as a 15 year old could be in a language that has no use outside of this program. I made some projects just for fun, including my 10th grade chemistry final project which I made in 2 days (I started 2 days before the last day of school, but that's not important) which involved elements descending from the top of the screen and the player had to shoot the appropriate amount of protons, neutrons and valence electrons to delete that element and stop it from hitting the bottom. 
-    
-  <br />
-    <br />
+   I originally started my coding journey at age 9 with GameMaker 7 and drag-and-drop programming. It was so fun creating little games and I knew even if it wasn't specifically game dev, I wanted to do something in this field.
+   <br />
+<br />
+   Fast forward to highscool and I use GameMaker Studio 2 and GML (GameMaker Language) to develop some fun little projects, including my chemistry final project which my teacher was amazed by.
+   By senior year I had joined our schools Computer Science Principles class where we used MIT App Inventor, VexCode, and Python.
+   It was at this point I knew I was going to make this a career and upon graduation in May I began researching and learning languages. I started with Python trying to piggyback off of what I had learned in the class but I realized I didn't know the practical use application.
+   After months of learning I suddenly had the urge to make a mobile app. Why? Because MyFitnessPal started charging their premium subscription to use the barcode scanner and view macro goals, so like any reasonable person I sought to develop my own free alternative instead of just downloading a different app.
+   That led me down the .NET MAUI and C# path, which got me into doing frontend in MAUI and my backend api in ASP.NET Core, and my database in MS SQL Server. I have since migrated my progress from .NET MAUI to Uno Platform as it allows more flexibility for what I want to do with the app.
 
-  I loved making those small game projects but I felt there was something more to programming, a better use of my skills.
-  In October 2021, the beginning of my senior year of highschool, I was bored in study hall and decided to switch that class to a Computer Science Principles course.
-  I was told I would be behind (9 weeks behind) since the school year had already started but I didn't care.
-  Anyway I joined the class on a Friday and was ahead of the rest of the class by Monday since I did all of the work at home.
-  I don't like bragging or coming off as arrogant, but it was then I realized I was pretty good at this. I mean I did 9 weeks worth of work in one weekend with no instructiom, just my own brain.
-  We were using MIT App Inventor, not real written programming, but still I taught myself how to do the assignments.
-   <br />
-      <br />
-    
-  We eventually graduated to Python, and while I'm a bigger fan of static languages, I still just 'got' it.
-  There actually came a point where I had finished everything like 2 weeks early and the teacher told me to just help the other students.
-  Upon graduation in May 2022, I knew I wanted to be a software developer as my career, but I forwent a college degree because I didn't think the cost and time investment was worth it.
-  I understand I don't know EVERYTHING but if I need to know something for a project I research and figure it out relatively quickly.
    <br />
     <br />
-  In January 2023, the New Years fitness kick led me to wanting to get back into shape. Unfortunatley MyFitnessPal had locked their barcode scanner behind a paywall and for some reason that lit a deep hatred for these apps which offer mediocre features at best and lock most of the functional ones behind a paywall. So I decided to develop my own app which I intend to release for free and the UI/UX will be designed in a way I think existing apps could benefit from. I was using .NET MAUI so I began learning C# but I ended up switching to Uno Platform Framework (which still uses C#)
-     <br />
-    <br />
-    At present I am continuing to develop my app 'HealthMode' and upon completion of that I will go into freelancing and after I gain some experience and reputation I will apply for software engineering jobs (hopefully on the west coast or remote but located on the west cost since I want to move to Las Vegas)
+   Upon completion of my app (HealthMode), I will go into the world of freelancing, building up my skills, portfolio, and experience and hopefully find some jobs out on the west coast as it is a dream of mine to move to Las Vegas!
     
 </details>
 
