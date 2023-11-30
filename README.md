@@ -12,6 +12,7 @@ Unfortunatley there's only so much you can do in one lifetime, so I decided to d
 
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 <br />
 
 #
@@ -25,6 +26,7 @@ Unfortunatley there's only so much you can do in one lifetime, so I decided to d
 <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />      
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />      
 <img align="left" alt="Godot" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+
 <br />
 
 #
